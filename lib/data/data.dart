@@ -17,7 +17,7 @@ List<Map<String, dynamic>> transactionsData = [
     'date': 'Today',
   },
   {
-    'icon': const FaIcon(FontAwesomeIcons.heart, color: Colors.white),
+    'icon': const FaIcon(FontAwesomeIcons.heartCircleBolt, color: Colors.white),
     'color': Colors.green,
     'name': 'Health',
     'totalAmount': '€ -79.00',
